@@ -86,3 +86,8 @@ nav, .picture img {
         transform: translateY(0);
     }
 }
+
+.table {
+    align-items: right;
+    color: #fff;
+}
